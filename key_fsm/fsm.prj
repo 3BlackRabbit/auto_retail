@@ -1,0 +1,4 @@
+verilog work "../design/led_water_sigle.v"
+verilog work "../design/led_water_double.v"
+verilog work "../design/key_debounce.v"
+verilog work "../design/fsm.v"
